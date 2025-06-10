@@ -1,29 +1,31 @@
-<h1 align="center">🐾 Hi there, I'm HyunSu! 🐾</h1>
-<h3 align="center">A passionate C-based terminal game developer 🧱🎮</h3>
+<h1 align="center">Welcome to HyunSu's GitHub</h1>
+<h3 align="center">✨ A developer diving deep into Next.js and modern frontend development ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IHyunSu&label=Profile%20views&color=ff69b4&style=flat" alt="IHyunSu" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBlZ2t2Z3Y2aWlncXRpZWdjd2Q5MmFqcmZ2cW5tdjBnNjA1c2o0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" height="180"/>
 </p>
 
 ---
 
-### 🎯 About Me
-- 🌱 Currently developing a **terminal-based maze game** in C using `ncurses`
-- 🧠 Learning about **A* pathfinding**, **pthreads**, and **game design**
-- 📚 Exploring **Firebase**, **Next.js**, and **GitHub Actions**
-- 🐱 Favorite characters: **Roxy Migurdia**, **Suzume Iwato**, **Aigis**, **Ryuko Matoi**
+### 💫 About Me
+
+- I'm currently focused on building **Next.js** projects with **Firebase**
+- Interested in web architecture, SSR/SSG, and scalable backend APIs
+- Making something cool with **TypeScript**, **React**, and **FireStore**
+- Also passionate about terminal-based C games & game AI (A* pathfinding)
+- Always exploring better UX, cleaner code, and meaningful side-projects
 
 ---
 
-### 🛠️ Languages & Tools
+### 🌟 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ncurses-008000?style=flat&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
 </p>
 
 ---
@@ -31,19 +33,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IHyunSu&show_icons=true&theme=tokyonight&hide=contribs" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHyunSu&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IHyunSu&show_icons=true&theme=rose_pine&hide=contribs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHyunSu&layout=compact&theme=rose_pine" height="150"/>
 </p>
 
 ---
 
-### 🌈 Fun Fact
+### ☁️ Quote
 
-> 🧩 "I turn 1s and 0s into adventure."  
-> 🎀 "Coding with cats and coffee."
-
----
+> *"Build with purpose. Learn with passion."*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

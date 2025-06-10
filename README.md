@@ -7,6 +7,26 @@
 
 ---
 
+### 📚 Blog
+
+<p align="center">
+  <a href="https://morethan-log-na4t.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Blog Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://morethan-log-na4t.vercel.app/" target="_blank">
+    <img src="https://og-image.vercel.app/**HyunSu%20Blog**.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fnotion.so%2Fimages%2Flogos%2Fnotion-logo.svg" width="80%" alt="Notion Blog Preview"/>
+  </a>
+</p>
+
+<p align="center">
+  ✨ Visit my personal Notion-powered blog where I share dev notes, project insights, and tech learnings ✨  
+</p>
+
+---
+
 ### 💫 About Me
 
 - I'm currently focused on building **Next.js** projects with **Firebase**
@@ -17,31 +37,31 @@
 
 ---
 
-### 🌟 Tech Stack
+<h2 align="center">🌟 Tech Stack</h2>
 
-### Languages
-<p>
+<h3 align="center">Languages</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
 </p>
 
-### Framework & Libraries
-<p>
+<h3 align="center">Framework & Libraries</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### Cloud & Deployment
-<p>
+<h3 align="center">Cloud & Deployment</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </p>
 
-### Tools & DevOps
-<p>
+<h3 align="center">Tools & DevOps</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black"/>
@@ -50,9 +70,13 @@
 
 ---
 
-### 🧩 Online Judge
+<h2 align="center">🧩 Online Judge</h2>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zmfnwj0223)](https://solved.ac/zmfnwj0223)
+<p align="center">
+  <a href="https://solved.ac/zmfnwj0223">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=zmfnwj0223" alt="solved.ac profile" />
+  </a>
+</p>
 
 ---
 

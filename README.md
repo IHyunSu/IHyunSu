@@ -7,26 +7,6 @@
 
 ---
 
-### 📚 Blog
-
-<p align="center">
-  <a href="https://morethan-log-na4t.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Notion%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Blog Badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://morethan-log-na4t.vercel.app/" target="_blank">
-    <img src="https://og-image.vercel.app/**HyunSu%20Blog**.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fnotion.so%2Fimages%2Flogos%2Fnotion-logo.svg" width="80%" alt="Notion Blog Preview"/>
-  </a>
-</p>
-
-<p align="center">
-  ✨ Visit my personal Notion-powered blog where I share dev notes, project insights, and tech learnings ✨  
-</p>
-
----
-
 ### 💫 About Me
 
 - I'm currently focused on building **Next.js** projects with **Firebase**
